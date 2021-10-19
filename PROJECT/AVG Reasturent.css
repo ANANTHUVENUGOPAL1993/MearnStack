@@ -1,0 +1,221 @@
+
+
+a:link{
+    text-decoration:none;
+}
+.shopping-items {
+    border: 1px solid rgb(158, 151, 151);
+    height: 30px; width: 150px;
+}
+.product-count{
+    
+    padding-left: 0px;
+}
+.shopping-items:hover {
+    background-color: red;
+    color: white;
+}
+
+
+.shopping-items{
+    color:black;
+    margin-left: 50px;
+    
+}
+
+
+.signin{
+    width: 100px; height: 30px;
+    border: 1px solid rgb(158, 151, 151);
+    color: black;
+    padding-top: 1px;
+    margin-left: 50px;
+
+
+}
+
+.signin:hover{
+    background-color: red;
+}
+
+.container{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.navbar{
+    margin-top: 0px;
+}
+.polygon {
+    background: linear-gradient(-175deg, rgb(151, 34, 34) 30%, 30%, transparent 0), linear-gradient(5deg, rgb(151, 34, 34) 30%, rgb(255, 255, 255) 0);
+    height: 500px;
+    width: 100%;
+    padding-top: 160px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    
+ }
+
+    
+
+
+.menu{
+    display: flex;
+}
+
+.menu-image{
+    width: 50%;
+} 
+
+.text-2{
+    margin-left: 50px;
+    margin-bottom: 30px;
+   
+}
+.text-1{
+    margin-left: 50px;
+}
+
+.text-1 h5{
+    background-color: rgb(226, 218, 220);
+}
+
+.text-2 h5{
+    background-color: rgb(226, 223, 218);
+}
+
+.carousel-caption{
+    background-color: rgba(0, 151, 19, 0.5);
+
+    
+}
+
+.menu-image-1{
+    width: 50%;
+} 
+
+
+.polygon-2 {
+    background: linear-gradient(-175deg, rgb(151, 34, 34) 30%, 30%, transparent 0), linear-gradient(5deg, rgb(0, 0, 0) 30%, rgb(54, 54, 54) 0);
+    height: 1100px;
+    width: 100%;
+    padding-top: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    
+ }
+
+.t1 li{
+color: white;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.name{
+    border: black 1px ;
+    height: 100px; width: 200px;
+    margin-top: 180px;
+    padding-top: 30px;
+    background-color: red;
+    background: linear-gradient(-175deg, rgb(151, 34, 34) 30%, 30%, transparent 0), linear-gradient(5deg, rgb(151, 34, 34) 30%, rgb(81, 82, 80) 0);
+    border-radius: px;
+
+}
+
+.name p {
+    padding-top: 40px;
+    font-family:serif;
+    color: white;
+}
+
+.name1{
+    display: flex;
+    margin-left: 30px;
+}
+
+.f1{
+    border: black 1px ;
+    height: 200px; width: 200px;
+    margin-top: 100px;
+    padding-top: 80px;
+    color: white;
+    
+    margin-left: 150px;
+    
+}
+.f1 a {
+    color: rgb(0, 0, 0);
+    font-family:serif;
+    color: white;
+}
+
+.f2{
+    border: black 1px ;
+    height: 200px; width: 200px;
+    margin-top: 100px;
+    padding-top: 80px;
+    color: white;
+  
+    margin-left: 150px;
+}
+
+
+.f2 a {
+    color: rgb(0, 0, 0);
+    font-family:serif;
+    color: white;
+}
+
+.f3 {
+    border: black 1px ;
+    height: 200px; width: 400px;
+    margin-top: 100px;
+    padding-top: 80px;
+   
+    margin-left: 150px;
+    font-family:serif;
+    color: white;
+}
+
+.name i {
+    color: white;
+}
+
+.f3 i{
+    color: white;
+}
+
+.f11 {
+    color: white;
+    margin-top: 400px;
+    font-family: sans-serif;
+    margin-left: 30px;
+}
+
+.online{
+    margin-left: 550px;
+}
+
+.card p {
+    text-align: justify;
+}
+
+
+.line-1{
+    border: 1px white dotted;
+    border-top: 50px;
+}
+
+.nav-item a:hover {
+    background-color:rgb(252, 252, 252);
+}
+
+.sticky{
+    position:sticky;
+    top: 0px;
+    z-index: 1; 
+}

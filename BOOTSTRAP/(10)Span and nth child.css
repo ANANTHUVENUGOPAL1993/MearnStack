@@ -1,0 +1,11 @@
+.section a:nth-child(1) {
+    color: rgb(0, 0, 0);
+}
+
+.section a:nth-child(2) {
+    color: rgb(202, 50, 50);
+}
+
+.section a:nth-child(3) {
+    color: rgb(96, 187, 60);
+}

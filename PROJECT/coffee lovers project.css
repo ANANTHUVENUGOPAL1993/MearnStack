@@ -1,0 +1,82 @@
+
+.p1{
+    border: solid rgb(231, 229, 229) 2px ;
+    height: 330px; width: 1000px;
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+
+.p1 div {
+    border: solid rgb(241, 228, 228) 2px ;
+    height: 330px; width: 1050px;
+    background-color: beige;
+}
+.d1{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 600px;
+    border:  rgb(170, 55, 55) 2px;
+    width: 300px;
+    height: 40px;
+    
+
+}
+.h1{
+    border: solid black 2px;
+    width: 1000px;  
+    height: 40px;
+    display: flex;
+    background-color: rgb(172, 182, 224);
+    padding-left: 50px  ;
+    padding-bottom: 10px;
+    position: sticky;
+    top: 0px;
+    
+
+}
+
+p{
+    text-align: justify;
+}
+
+.d2{
+    border: rgb(163, 23, 23) 1px ;
+    height: 160px ;
+    width: 1100px;
+    background-color: rgb(236, 239, 243);
+}
+
+.l1{
+    text-align: justify;
+    color: rgb(199, 15, 52);
+}
+
+
+.d11{
+    border:  rgb(245, 234, 234) 2px ;
+    height: 2000px; width: 1050px;
+    margin-left: 2px;
+}
+
+.d33{
+    margin-right: 120px;
+}
+
+
+.d44{
+    display: flex;
+}
+
+
+.d66{
+    border: black 2px;
+    width: 300px;  
+    height: 200px;
+    margin-left: 150px;
+}
+
+.img{
+    position: fixed;
+    margin-top: 50px;
+}

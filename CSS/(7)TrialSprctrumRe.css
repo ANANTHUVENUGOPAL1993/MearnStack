@@ -1,0 +1,24 @@
+#d1 div{
+    border: solid black 2px;
+    height: 100px;
+    width: 100px;
+    float: left;}
+
+    /* div{
+        border: solid black 2px;
+        height: 100px;
+        width: 100px;
+        float:le; } */
+        #d2 {
+            border: solid rebeccapurple 2px;
+            height: 100px;
+            width: 200px;}
+
+        div{
+            border: solid green 4px;
+            height: 100px;
+            width: 100px;
+        }
+
+
+            

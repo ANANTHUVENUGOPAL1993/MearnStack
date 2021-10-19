@@ -1,0 +1,33 @@
+div{
+    float: left;
+    border: solid black;
+    width: 22%; height: 700px;
+    text-align: justify;
+    
+}
+div p {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.d1{
+    background-color: burlywood;
+    margin-left:    50px;
+}
+
+
+.d2{
+    background-color: cadetblue;
+    margin-left: 30px;
+}
+
+.d3{
+    background-color: cornsilk;
+    margin-left: 30px;
+}
+.d4{
+    background-color: darkseagreen;
+    margin-left: 30px;
+}
+.d4 h3 {
+    color: green;
+}

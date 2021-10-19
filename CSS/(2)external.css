@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bonheur+Royale&display=swap');
+h1 {
+    color: rebeccapurple;
+    
+}
+h2{
+    color: khaki;
+}
+body{
+    background-color: grey;
+}
+
+#second{ color:royalblue;
+}
+.th{
+    color: rgb(138, 105, 105);
+    font-family: 'Bonheur Royale', cursive; 
+}

@@ -1,0 +1,42 @@
+
+.parent{
+    border: solid black 1px;
+    width: 600px; height: 580px;
+    background-color: chocolate;
+    display: flex;
+    
+    /* justify-content: space-between; */
+    /* justify-content: space-evenly; */
+    justify-content:space-around;
+    align-items: center;
+    /* justify-content: flex-end; */
+    
+}
+
+.parent div{
+    border: solid black 1px;
+    width: 100px; height: 500px;
+    
+    /* margin-left:2px;
+    margin-top: 1px; */
+    
+}
+
+.c1{
+    background-color: purple;
+}
+
+.c2{
+    background-color: royalblue;
+}
+.c3{
+    background-color: sienna;
+}
+.c4{
+
+
+    background-color: thistle;
+}
+.c5{
+    background-color: teal;
+}

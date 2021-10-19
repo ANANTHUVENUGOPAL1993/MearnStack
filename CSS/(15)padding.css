@@ -1,0 +1,18 @@
+div{
+background-color: blanchedalmond;
+color: blue;
+width: 400px;
+height: 300px;
+}
+
+p{
+    padding: 50px;
+   
+    text-align: justify;
+}
+
+body{
+    background-image:url(./images/image2.jpg);
+    background-size: cover;
+    
+}

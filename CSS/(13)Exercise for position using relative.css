@@ -1,0 +1,48 @@
+
+.parent{
+    border: solid black 1px;
+    width: 529px; height: 306px;
+    background-color: chocolate;
+    position: relative;
+}
+
+.parent div{
+    border: solid black 1px;
+    width: 100px; height: 300px;
+    
+    
+}
+
+.c1{
+    background-color: purple;
+    position: absolute ;
+    top: 2px;
+}
+
+.c2{
+    background-color: royalblue;
+    position: absolute;
+    left: 106px ;
+    top: 2px;
+
+}
+.c3{
+    background-color: sienna;
+    position: absolute;
+    left: 212px ;
+    top: 2px;
+}
+.c4{
+
+
+    background-color: thistle;
+    position: absolute;
+    left: 318px ;
+    top: 2px;
+}
+.c5{
+    background-color: teal;
+    position: absolute;
+    left: 424px ;
+    top: 2px;
+}

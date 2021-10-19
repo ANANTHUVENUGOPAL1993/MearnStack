@@ -1,0 +1,18 @@
+
+
+div{
+    border: solid black 2px;
+    width: 300px;
+    height: 150px;
+}
+
+.d1{
+    background-color: blanchedalmond;
+}
+
+
+.d2{
+    background-color: chocolate;
+    position: sticky; 
+    top: 10px;
+}

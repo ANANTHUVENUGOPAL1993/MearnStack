@@ -1,0 +1,21 @@
+
+div{
+    border: solid black 2px;
+    width: 200px; height: 100px;
+}
+
+.d1{background-color: burlywood;
+    position: absolute;
+    top: 200px;
+    width: 500px;
+    left: 50%;
+}
+
+
+.d2{
+    background-color: coral;
+    position: absolute;
+    top: 200px;
+
+}
+

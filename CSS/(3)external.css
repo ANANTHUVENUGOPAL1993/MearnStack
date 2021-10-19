@@ -1,0 +1,24 @@
+div{
+    border: solid rebeccapurple ;
+    width: 32%;
+    height: 500px;
+    float: left;
+    text-align: justify;
+}
+
+#id1{
+    color: royalblue;
+    text-align: center;
+}
+#id1 img {
+    width: 50%;
+    height: 200px;
+}
+
+div img
+{
+    height: 200px;
+    width: 100%;
+}
+
+

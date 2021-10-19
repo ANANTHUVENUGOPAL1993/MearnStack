@@ -1,0 +1,5 @@
+.polygon {
+    background: linear-gradient(-170deg, rgb(53, 230, 30) 25%, transparent 0), linear-gradient(10deg, rgb(151, 34, 34) 25%, rgb(150, 150, 150) 0);
+    height: 300px;
+    width: 500px;
+}

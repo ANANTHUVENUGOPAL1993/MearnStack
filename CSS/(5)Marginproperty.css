@@ -1,0 +1,15 @@
+div{
+    height:300px;
+    width: 30%;
+    border: solid black 2px;
+    margin-left:200px;
+}
+
+#box1{
+    background-color: blueviolet;
+}
+
+#box2 {
+    background-color: burlywood;
+    margin-top: 300px;
+}
