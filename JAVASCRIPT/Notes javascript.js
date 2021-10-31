@@ -23,6 +23,11 @@ v8 Spider Monkey-->
 <!-- Staging area to local repo is done using "git commit" -->
 <!-- Local repo to remote repo is done using Git push -->
 <!-- to initialise git////git init -->
+
+
+
+<!-- ///////LOCAL//////////// -->
+
 <!-- git status when written in terminal gives status -->
 <!-- git add -A -->
 <!-- git add filename -->
@@ -33,4 +38,38 @@ v8 Spider Monkey-->
 
 
 
+<!-- /////////REMOTE ////////// -->
 
+ <!-- git remote add name linkof github
+git remote -v
+git push -u name master -->
+
+
+
+
+<!-- /////////NODE///////// -->
+
+<!-- node --version -->
+<!-- npm --version
+node package manager -->
+
+
+<!-- //////////JAVASCRIPT/////////// -->
+
+<!-- languages where  we have to define the type is called strictly or strongly typed language -->
+<!-- Dynamically typed language -No need to define type ///js , python -->
+<!-- IDENTIFIER
+variable
+function
+class
+interface -->
+
+//CODING SATNDARD
+
+//snake case
+//printvalues print_value
+
+///create a program to find hcf of two number
+///print prime numbers between 5 to 50 low to up
+/// hollow full pyramid
+//full pyramid
