@@ -1,0 +1,65 @@
+<body>
+    <!-- As a link -->
+    <nav class="navbar navbar-light bg-dark ">
+        <a class="navbar-brand  " href="#" style="color:rgb(85, 98, 237);"><b>&#169;AVG Bank </b></a>
+        <span class="quote text-light">@arathypublications</span><br>
+        <p>{{aim}}</p>
+        <input type="text" [value]="ab">
+        <input type="submit" (click)="alert1()">
+    </nav>
+  
+  
+    <div class="container col-md-12 mt-0">
+        <div class="d-flex justify-content-center h-100">
+            <div class="card">
+                <div class="card-header">
+                    <h3 class="text-center">{{adno}}</h3>
+  
+                </div>
+                <div class="card-body">
+                    <form onsubmit="event.preventDefault();bank.login()">
+                        <div class="input-group form-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fas fa-user"></i></span>
+                            </div>
+                            <!-- <input type="text" class="form-control"  (change)="acnoChange($event)" [placeholder]="accno" id="bk_username" required>   -->
+  
+                            <input type="text" class="form-control" #acno [placeholder]="accno" id="bk_username"
+                                required>
+                            <!-- template refferencing variable -->
+                            <!-- <input type="text" class="form-control" name="user" [value]="accno" [(ngModel)]="acno" id="bk_username"
+                            required> -->
+                            <!-- <input type="text" class="form-control" name="user" value={{acno}}  id="bk_username"
+                            required> -->
+
+  
+  
+  
+                        </div>
+                        <div class="input-group form-group">
+                            <div class="input-group-prepend">
+                                <span class="input-group-text"><i class="fas fa-key"></i></span>
+                            </div>
+                            <!-- <input type="password" class="form-control"  placeholder="password"  (change)="pwdChange($event)" id="bk_password" required> -->
+                            <input type="password" class="form-control" #pwd placeholder="password" id="bk_password"
+                                required>
+                                <!-- <input type="password" class="form-control" name="pass" [(ngModel)]="pwd"  placeholder="password" id="bk_password"
+                                required> -->
+  
+
+                        </div>
+  
+                        <div class="form-group">
+                            <input type="submit" value="Login" (click)="login(acno,pwd)"
+                                class="btn float-right login_btn " style="width:50%">
+                        </div>
+                    </form>
+                </div>
+                <p style="color:white;align-items:baseline;">Not a user? <a
+                        href="dashboard">Register</a></p>
+            </div>
+        </div>
+    </div>
+  
+  
+  </body>

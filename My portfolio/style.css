@@ -1,0 +1,57 @@
+.intro_image{
+    width: 450px;
+    height: 500px;
+}
+
+.section_title{
+    text-align: center;
+   
+}
+
+.w1{
+    background-color: black;
+    color: white;
+    height: 700px;
+    padding-top: 200px;
+
+}
+
+.i1{
+    background-color: rgb(0, 255, 234);
+    color: rgb(0, 0, 0);
+
+}
+
+.i3{
+    width: 320px;
+}
+
+.a1{
+    margin-top: 150px;
+
+}
+
+.i5{
+    width: 350px;
+    height: 400px;
+    border-radius: 50px;
+}
+
+
+.w2{
+    height: 700px;
+    padding-top: 100px;
+}
+
+.i7{
+   text-align: center;
+}
+
+.w8{
+    background-color: black;
+    height: 1000px;
+}
+
+.m5{
+    background-color: black;
+}

@@ -1,0 +1,18 @@
+//Bank server
+Node-js-assygranus
+php-server -synchronus programing
+front end to back end through API - json format - get post delete 
+Create Package json------  npm init  
+Install express - npm install express
+Create index.js
+Import express to index.js-------- //import express
+                                    constant express=require('express')
+
+
+Create app using express
+set port number for server 
+to run server: node index.js
+nodemon index.js
+to resolve API  -  
+
+////export -  Access from another //
